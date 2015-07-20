@@ -1,0 +1,13 @@
+{
+    "name": "konrness/array_punch",
+    "description": "Punch one or more elements onto the end of array.",
+    "require-dev": {
+        "phpunit/phpunit": "~4.7"
+    },
+    "authors": [
+        {
+            "name": "Konr Ness",
+            "email": "kness@nerdery.com"
+        }
+    ]
+}
